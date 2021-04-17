@@ -456,7 +456,7 @@ h2 {
 @media (max-width: 450px) {
   .header_wrap {
     margin: 0 auto;
-    grid-template-columns: 90px 21px 2rem;
+    grid-template-columns: 100px 21px 2rem;
     grid-template-rows: 1rem 20px;
     max-width: 110px;
     padding-top: 20px;
